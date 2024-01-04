@@ -16,6 +16,7 @@ const Home: React.FC = () => {
             <IonTitle size="large">Blank</IonTitle>
           </IonToolbar>
         </IonHeader>
+        <IonIcon src="logo_facebook.svg"></IonIcon>
         <ExploreContainer />
       </IonContent>
     </IonPage>
